@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    border: none;
+    outline: none;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+:root{
+    --light-yellow: #DFAA4E;
+    --text-color: #161513;
+
+    --body-font: "Space Grotesk", sans-serif;
+
+    /* ==================== Font Size ==================== */
+    --small-size: 0.75rem;
+    --normal-size: 0.95rem;
+    --bigger-size: 2.4rem;
+}
+
+
+body{
+    font-size: var(--normal-size);
+    font-family: "Space Grotesk", sans-serif;
+    background: var(--light-yellow);
+    color: var(--text-color);
+}

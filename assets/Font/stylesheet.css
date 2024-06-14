@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Space Grotesk';
+    src: url('SpaceGrotesk-Medium.woff2') format('woff2'),
+        url('SpaceGrotesk-Medium.woff') format('woff'),
+        url('SpaceGrotesk-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Grotesk';
+    src: url('SpaceGrotesk-SemiBold.woff2') format('woff2'),
+        url('SpaceGrotesk-SemiBold.woff') format('woff'),
+        url('SpaceGrotesk-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Grotesk';
+    src: url('SpaceGrotesk-Regular.woff2') format('woff2'),
+        url('SpaceGrotesk-Regular.woff') format('woff'),
+        url('SpaceGrotesk-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
